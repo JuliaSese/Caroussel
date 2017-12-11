@@ -1,6 +1,6 @@
 $(document).ready(function(){
 
-    var $carrousel = $('#carrousel'),
+    let $carrousel = $('#carrousel'),
         $img = $('#carrousel img'),
         indexImg = $img.length - 1,
         i = 0,

@@ -1,0 +1,20 @@
+img {
+    width: 300px;
+}
+
+#carrousel{
+    position:relative;
+    height:200px;
+    width:700px;
+    margin:auto;
+}
+
+.controls {
+    margin-top: -150px;
+    color: #fff;
+    font-size: 50px;
+}
+
+.next {
+    margin-left: 200px;
+}
